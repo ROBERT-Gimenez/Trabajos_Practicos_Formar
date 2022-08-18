@@ -4,10 +4,10 @@
 
 
 
-<a href="">IR AL PDF</a>
+<a href="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/blob/master/10-Mercado_Liebre_6_Organizando_Elementos/Objetivo/M04C07%20-%20Ejercitaci%C3%B3n%20Organizando%20Elementos.pdf">IR AL PDF</a>
 
 <h2>Preview del desafio finalizado<h2>
 
-<img src="/public/images/card.PNG">
+<img src="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/blob/master/10-Mercado_Liebre_6_Organizando_Elementos/public/images/card.PNG">
 
-<img src="/public/images/footer.PNG">
+<img src="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/blob/master/10-Mercado_Liebre_6_Organizando_Elementos/public/images/footer.PNG">
