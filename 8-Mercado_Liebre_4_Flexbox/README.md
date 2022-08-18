@@ -3,8 +3,8 @@
 ## Desafio frontend del curso FullStack de Digital House
 
 
-<a href="">IR AL PDF</a>
+<a href="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/blob/master/8-Mercado_Liebre_4_Flexbox/Objetivo/M04C05%20-%20Ejercitaci%C3%B3n_Mercado_Liebre_4_Flexbox.pdf">IR AL PDF</a>
 
 <h2>Preview del desafio finalizado<h2>
 
-<img src="/images/preview.PNG">
+<img src="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/blob/master/8-Mercado_Liebre_4_Flexbox/public/images/preview.PNG">
